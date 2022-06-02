@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip",
-  "rom_name": "update.zip",
+  "rom_url": "https://bigota.d.miui.com/V13.0.1.1.35.DEV/miui_CANNON_V13.0.1.1.35.DEV_0ec35500be_12.0.zip",
+  "rom_name": "miui_CANNON_V13.0.1.1.35.DEV_0ec35500be_12.0.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
   "rom_type": "miui",
   "light_fix": true,
   "bug_fix": true,
-  "version": "11",
-  "upload_transfer": true,
-  "upload_release": false,
+  "version": "12",
+  "upload_transfer": false,
+  "upload_release": true,
   "use_7zip": true,
   "use_zip": false
 }
